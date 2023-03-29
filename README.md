@@ -23,9 +23,9 @@ To take this course, you should have a basic understanding of Python programming
 - Scikit-Learn
 - Getting Started
 
-## To get started with the course, clone or download this repository to your local machine. Then, open Jupyter Notebook and navigate to the directory where you downloaded the repository. From there, open the course notebooks to begin working through the course materials.
+#### To get started with the course, clone or download this repository to your local machine. Then, open Jupyter Notebook and navigate to the directory where you downloaded the repository. From there, open the course notebooks to begin working through the course materials.
 
-##### Contributions
+## Contributions
 If you find an error in the course materials or would like to contribute additional content, please submit a pull request or issue to the repository.
 
 ## License
