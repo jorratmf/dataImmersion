@@ -1,5 +1,6 @@
 # Data Immersion with Python, Intensive Course
 This repository contains the course materials for the Data Immersion with Python, intensive course. The course covers the fundamental concepts of data science and provides an in-depth understanding of how to work with data using the Python programming language.
+### Alura Latam
 
 ## Course Topics
 The course covers the following topics:
