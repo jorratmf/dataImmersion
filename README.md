@@ -1,11 +1,11 @@
 # Data Immersion with Python, Intensive Course
-## This repository contains the course materials for the Data Immersion with Python, intensive course. The course covers the fundamental concepts of data science and provides an in-depth understanding of how to work with data using the Python programming language.
+### This repository contains the course materials for the Data Immersion with Python, intensive course. The course covers the fundamental concepts of data science and provides an in-depth understanding of how to work with data using the Python programming language.
 
-### Course Topics
-The course covers the following topics:
+## Course Topics
+#### The course covers the following topics:
 
-Introduction to data science and data analysis
-Data exploration and visualization
+-Introduction to data science and data analysis
+- Data exploration and visualization
 Data manipulation and cleaning using Python
 Working with data in Pandas
 Data aggregation and grouping
